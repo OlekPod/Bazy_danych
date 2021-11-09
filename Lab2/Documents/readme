@@ -1,0 +1,4 @@
+W pliku prepare_data na podstawie original_data stworzono dataFrame składający się z potrzebnych zmiennych.
+Następnie zostało z niego usunięte obserwacje które nie posiadały kompletu odpowiedzi i został on zapisany w pliku data_final.
+
+Następnie w pliku make_graphs na podstawie data_final utworzono grafy obrazujące wyniki badania

@@ -1,0 +1,2 @@
+Po zebraniu danych z 4 interesujących nas kolumn jedynie w 16 wierszach na 1017 znajdywały się nie pełne dane (NaN),
+dlatego zostały one usunięte bez istotnej straty informacji.
